@@ -16,6 +16,7 @@ namespace VehicleService.Repository
             vehicle_list.Add(new Vehicle { Vehicle_Id = 2, Vehicle_Cmpy = "Fiat", Rent_per_month = 1500 });
             vehicle_list.Add(new Vehicle { Vehicle_Id = 3, Vehicle_Cmpy = "Suzuki", Rent_per_month = 2500 });
             vehicle_list.Add(new Vehicle { Vehicle_Id = 4, Vehicle_Cmpy = "Hyndai", Rent_per_month = 3500 });
+             vehicle_list.Add(new Vehicle { Vehicle_Id = 5, Vehicle_Cmpy = "Wolkswagen", Rent_per_month = 5500 });
         }
 
 
